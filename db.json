@@ -1,0 +1,14 @@
+{
+  "animals": [
+    {"id": 1, "name:": "Turca", "type": "Dog", "age": 4},
+    {"id": 2, "name:": "Tom", "type": "Cat", "age": 10},
+    {"id": 3, "name:": "Frida", "type": "Dog", "age": 11},
+    {"id": 1, "name:": "Bob", "type": "Horse", "age": 2},
+    {"id": 1, "name:": "Paco", "type": "Bird", "age": 1}
+  ],
+  "pessoa": [
+    {"id": 1, "name": "Juliana", "sex": "Feminino"},
+    {"id": 2, "name": "Marcos", "sex": "Masculino"},
+    {"id": 3, "name": "Marcela", "sex": "Feminino"}
+  ]
+}
